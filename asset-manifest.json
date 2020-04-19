@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-dnd/static/css/main.bf03791b.chunk.css",
+    "main.js": "/simple-dnd/static/js/main.c7209a5e.chunk.js",
+    "main.js.map": "/simple-dnd/static/js/main.c7209a5e.chunk.js.map",
+    "runtime-main.js": "/simple-dnd/static/js/runtime-main.4c3b387d.js",
+    "runtime-main.js.map": "/simple-dnd/static/js/runtime-main.4c3b387d.js.map",
+    "static/js/2.d9adb09e.chunk.js": "/simple-dnd/static/js/2.d9adb09e.chunk.js",
+    "static/js/2.d9adb09e.chunk.js.map": "/simple-dnd/static/js/2.d9adb09e.chunk.js.map",
+    "index.html": "/simple-dnd/index.html",
+    "precache-manifest.6345ecea6e520fd8babb21c718a6ded6.js": "/simple-dnd/precache-manifest.6345ecea6e520fd8babb21c718a6ded6.js",
+    "service-worker.js": "/simple-dnd/service-worker.js",
+    "static/css/main.bf03791b.chunk.css.map": "/simple-dnd/static/css/main.bf03791b.chunk.css.map",
+    "static/js/2.d9adb09e.chunk.js.LICENSE": "/simple-dnd/static/js/2.d9adb09e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c3b387d.js",
+    "static/js/2.d9adb09e.chunk.js",
+    "static/css/main.bf03791b.chunk.css",
+    "static/js/main.c7209a5e.chunk.js"
+  ]
+}

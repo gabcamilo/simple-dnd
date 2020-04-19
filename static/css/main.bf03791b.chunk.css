@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}body{background-color:#f3f3f3}.flexbox{justify-content:space-between;max-width:768px;height:100vh;overflow:hidden;margin:0 auto}.flexbox,.flexbox .board{display:flex;width:100%;padding:15px}.flexbox .board{flex-direction:column;max-width:300px;background-color:#313131}.flexbox .board .card{padding:15px 25px;background-color:#f3f3f3;cursor:-webkit-grab;cursor:grab;margin-bottom:15px}.flexbox .board .moving-card{background-color:hsla(0,0%,95.3%,.459);display:none}
+/*# sourceMappingURL=main.bf03791b.chunk.css.map */
